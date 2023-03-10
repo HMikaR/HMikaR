@@ -1,5 +1,5 @@
 
-<h1 align='center'> <i>Hi there ! I'm Mika<<img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h1> 
+<h1 align='center'> <i>Hi there ! I'm Mika<img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h1> 
  </br>
 <h3 align="center">New web developper student</h3>
 
@@ -17,12 +17,16 @@
 <p align="left">
 </p>
 
-| <a href="https://github.com/HMikaR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HMikaR&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HMikaR's github stats" /></a> | <a href="https://github.com/HMikaR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMikaR&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-#### Top Repositories
-
-
-
-<br />
-<br />
+<h2 align='center'><i>Github Stats & Languages Used</i></h2>
+</br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HMikaR-tech&count_private=true&show_icons=true&theme=vue-dark&bg_color=000000&border_color=39FF14&text_color=39FF14&title_color=39FF14&icon_color=39FF14" height="205">
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HMikaR-tech&theme=great-gatsby&sideNums=39FF14&ring=39FF14&border=39FF14&currStreakNum=39FF14&background=000000">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMikaR-tech&layout=compact&theme=vue-dark&bg_color=000000&border_color=39FF14&text_color=39FF14&title_color=39FF14&icon_color=39FF14" />
+</p>
+</br>
