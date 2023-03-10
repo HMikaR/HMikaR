@@ -24,7 +24,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HMikaR&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/HMikaR/HMikaR.github.io">
+<a href="https://github.com/HMikaR/HMikaR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HMikaR&repo=HMikaR.github.io&theme=buefy" />
 </a>
 
