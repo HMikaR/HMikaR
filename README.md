@@ -31,10 +31,9 @@
 </p>
 </br>
 
-<p align='right'>
-<div>✍️ Random Dev Quote
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) </div>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HMikaR&icon=0&color=0)](https://visitcount.itsvg.in)
