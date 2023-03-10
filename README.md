@@ -19,6 +19,13 @@
  
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![MAMP](https://a11ybadges.com/badge?logo=mamp) ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
  
+ <summary>🖥️ Computer system mastering :</summary>
+ 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ 
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+</details>
+
  </details>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
