@@ -4,7 +4,7 @@
 <h3 align="center"><color:orange>New web developper student</color></h3>
 
 
-
+⚒
 - 🌱 I’m currently learning and experimenting on : [CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
 - 💭 My motto ? **To infinity and beyond!👨🏼‍🚀**
@@ -15,7 +15,7 @@
 <h1> My skills 💪🏽</h1>
 
 <details open>
-<summary>I can work with :</summary>
+<summary>⚒️ Tools:</summary>
  
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![MAMP](https://a11ybadges.com/badge?logo=mamp) ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
  
