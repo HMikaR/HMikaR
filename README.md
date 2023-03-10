@@ -13,9 +13,6 @@
 
 - 📫 How to reach me : **migame.strass@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
