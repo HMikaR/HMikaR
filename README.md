@@ -1,7 +1,7 @@
 
 <h1 align='center'> <i>Hi there ! I'm Mika<img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h1> 
  </br>
-<h3 align="center">New web developper student</h3>
+<h3 align="center"><color:orange>New web developper student</color></h3>
 
 
 
