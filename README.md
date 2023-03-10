@@ -27,3 +27,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMikaR&layout=compact&theme=vue-dark&bg_color=000000&border_color=39FF14&text_color=39FF14&title_color=39FF14&icon_color=39FF14" />
 </p>
 </br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HMikaR&icon=0&color=0)](https://visitcount.itsvg.in)
