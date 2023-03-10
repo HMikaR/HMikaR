@@ -11,7 +11,7 @@
 
 - 💭 My motto ? **To infinity and beyond!👨🏼‍🚀**
 
-- 📫 How to reach me **migame.strass@gmail.com**
+- 📫 How to reach me : **migame.strass@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
