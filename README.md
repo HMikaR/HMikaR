@@ -12,6 +12,14 @@
 - 📫 How to reach me : **migame.strass@gmail.com**
 
 
+<h1> My skills 💪🏽</h1>
+
+<details open>
+<summary>I can work with :</summary>
+ 
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![MAMP](https://a11ybadges.com/badge?logo=mamp) ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
+ 
+ </details>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 </br>
