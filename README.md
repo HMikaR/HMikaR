@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋🏽 You can call me Mika</h1>
-<h2 align='center'> <i>Hi there ! I'm Mika<<img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2> 
+
+<h1 align='center'> <i>Hi there ! I'm Mika<<img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h1> 
  </br>
 <h3 align="center">New web developper student</h3>
 
